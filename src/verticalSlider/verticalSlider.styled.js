@@ -59,6 +59,11 @@ InactiveSlide.displayName = 'InactiveSlide';
 
 export const TextContainer = styled.h1`
   width: 50%;
+  font-size: 24px;
+
+  @media all and (max-width: 768px) {
+    font-size: 20px;
+  }
 `;
 TextContainer.displayName = 'TextContainer';
 
