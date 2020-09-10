@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'IBMPlexMono-Medium';
+  src: url('./assets/fonts/IBMPlexMono-Medium.ttf') format('truetype')
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'IBMPlexMono-Medium';
+  margin: 0;
+  padding: 0;
+}
